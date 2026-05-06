@@ -1,0 +1,6 @@
+com/investment/service/BadgeServiceTest.class
+com/investment/service/AnalyticsServiceTest.class
+com/investment/service/StreakServiceTest.class
+com/investment/service/SpacedRepetitionServiceTest.class
+com/investment/exception/GlobalExceptionHandlerTest.class
+com/investment/AppTest.class
